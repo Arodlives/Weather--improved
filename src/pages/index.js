@@ -4,7 +4,7 @@ import { Inter } from '@next/font/google'
 import { ActionIcon, useMantineColorScheme } from '@mantine/core';
 import styles from '@/styles/Home.module.css'
 import React from 'react';
-import InputWithButton  from  'components/search'
+//import InputWithButton  from  'components/search'
 
 const inter = Inter({ subsets: ['latin'] })
 

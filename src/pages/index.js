@@ -37,7 +37,7 @@ const Home = () => {
           </svg>
         )}
       </ActionIcon>
-      <InputWithButton></InputWithButton>
+
     </div>
   );
 };
